@@ -1,0 +1,255 @@
+.about-crew{
+    text-align: center;
+    color: #E8F9FD;
+    padding:0px 15px 100px;
+    position: relative;
+    top: 80px;
+    font-family: 'Open Sans', sans-serif;
+}
+.about-planet{
+    text-align: center;
+    color: #E8F9FD;
+    padding:0px 25px 140px;
+    position: relative;
+    top: 70px;
+    font-family: 'Open Sans', sans-serif;
+}
+.about-technology{
+    position: relative;
+    top:80px;
+    padding:0px 10px 100px;
+    color:#F7F6F2;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.block2{
+    position:relative;
+    top:25px;
+}
+#content1{
+    position: relative;
+    top:40px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 2rem;
+    color:#E8F9FD;
+}
+#content2{
+    text-align: center;
+    padding:0% 12%;
+    position: relative;
+    top:60px;
+    font-size: 1rem;
+    line-height: 2;
+    font-family: 'Open Sans', sans-serif;
+    color:#E8F9FD;
+   
+}
+#crew-whole{
+}
+.crew-image{
+    width: 20px;  
+    height: 240px; 
+    padding: 0px 70px;
+    position:relative;
+    top:37px;
+}
+.crew-head{
+    position: relative;
+    top: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    color:white;
+    text-align: center;
+    font-weight: 900;
+}
+#circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #E8F9FD;
+    position:relative;
+    
+}
+.carousel .carousel-indicators-crew button {
+    width: 8px;
+    height: 7px;
+    border-radius: 100%;
+    margin:0px 10px;
+}
+.carousel-indicators-crew{
+    position: absolute;
+    top:50%;
+}
+.carousel .carousel-indicators-planet button{
+    position: relative;
+    bottom:50%;
+    text-indent:0;
+    width:200px;
+    height: 40px;
+    border:none;
+    background-color: transparent;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: lighter;
+}
+.carousel-indicators-planet{
+    position: absolute;
+    top:53%;
+}
+.carousel .carousel-indicators-technology button{
+    text-indent:0;
+    width:60px;
+    height: 40px;
+    border:none;
+    background-color: transparent;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: lighter;
+}
+.carousel-indicators-technology{
+    
+    position: absolute;
+    top:43%;
+}
+.crew-role{
+    font-size: 1.2rem;
+    color:white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    top:30px;
+}
+#destination-section{
+}
+#destination-head{
+    position: relative;
+    top: 30px;
+    padding:0px 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    color:white;
+    text-align: center;
+    font-weight: 900;
+}
+.dist{
+    font-family: 'Nuosu SIL', serif;
+    color:#E8F9FD ;
+    font-size: 2.1rem;
+    text-align: center;
+    position: relative;
+    bottom: 60px;
+    padding:0px 60px;
+    font-weight: 100;
+}
+#End-Explore{
+    text-align: center;
+    position: relative;
+    top:100px;
+    left:10;
+    font-weight: 400;
+    color: white;
+    font-family: 'Nuosu SIL', serif;
+    font-size: 3rem;
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.intro-crew{
+    text-align: center;
+    font-size: 2.3rem;
+    font-family: 'Nuosu SIL', serif;
+    color:white;
+    padding: 0px 30px;
+    font-weight:lighter;
+    position: relative;
+    top:45px;
+    color: #E8F9FD;
+}
+.intro-technology{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #F7F6F2;
+    font-size: 0.9rem;
+    position: relative;
+    top:90px;
+}
+
+.nav-link{
+   color: white;
+}
+.navbar-nav{
+    margin-top: 30px;
+}
+.planet-image{
+    position: relative;
+    top: 50px;
+    width: 200px;  
+    height: 150px; 
+    padding: 0px 112px;
+}
+.planet{
+    font-family: 'Nuosu SIL', serif;
+    font-weight: lighter;
+    position: relative;
+    font-size: 3.5rem;
+    top: 45px;
+    color: white;
+    margin-top: 30px;
+}
+.planet-line{
+    width: 85%;  
+    border-style: solid;
+    border-width: 3px 0px 0px;
+    border-color:white;
+    position: absolute;
+    left: 8%;
+    top:40%;
+}
+.planet-avg-dist{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    color:#E8F9FD;
+    text-align: center;
+    position: relative;
+    bottom: 35px;
+}
+#space{
+    font-family: 'Nuosu SIL', serif;
+    font-size: 6rem;
+}
+.technology-name{
+    position: relative;
+    top:1px;
+    font-size: 2rem;
+    font-family: 'Nuosu SIL', serif;
+}
+#technology-whole{
+   
+}
+.technology-image{
+    height: 200px;
+    position: relative;
+    top:20px;
+    padding: 0% 5%;
+}
+.technology-head{
+    text-align: center;
+    font-size: 1.1rem;
+    color:#F7F6F2;
+    font-weight: 400;
+    padding:0% 13%;
+    position: relative;
+    top:10px;
+}
+.technology{
+    text-align: center;
+    font-size: 2.5rem;
+    color:white;
+}
+#home-whole{
+    padding-bottom: 250px;
+    color:#E8F9FD;
+    padding-bottom: 350px;;
+}
